@@ -1,5 +1,5 @@
 l
-<h1 align="center">VAJIRA-MD 7.O</h1>
+<h1 align="center">MXN-MOVIE</h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -7,47 +7,47 @@ l
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=VAJIRA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/VajiraTech">
-    <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
+<a href="https://github.com/MXN-MOVIE">
+    <img src="[https://pomf2.lain.la/f/aqi35mmg.jpg](https://i.ibb.co/KpWpH5zV/IMG-20250330-WA0211.jpg)"  width="700px">
 </a>
 <hr>
 
 
 <p align="center">
 
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA_MD?label=Fork&style=social">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE/fork">
+    <img src="https://img.shields.io/github/forks/MXN-MOVIE/MXN-MOVIE?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
-    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA_MD?style=social">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE/stargazers">
+    <img src="https://img.shields.io/github/stars/MXN-MOVIE/MXN-MOVIE?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE">
+    <img src="https://img.shields.io/github/repo-size/MXN-MOVIE/MXN-MOVIE?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA_MD?color=purple&label=License&style=plastic">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE">
+    <img src="https://img.shields.io/github/license/MXN-MOVIE/MXN-MOVIE?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE">
     <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA_MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE">
     <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/MXN-MOVIE/MXN-MOVIE">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
 
   </a>
