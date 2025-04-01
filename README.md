@@ -8,7 +8,7 @@ l
 </p>
 <p align="center">
 <a href="https://github.com/MXN-MOVIE">
-    <img src="[https://pomf2.lain.la/f/aqi35mmg.jpg](https://i.ibb.co/KpWpH5zV/IMG-20250330-WA0211.jpg)"  width="700px">
+    <img src="https://i.ibb.co/KpWpH5zV/IMG-20250330-WA0211.jpg"  width="700px">
 </a>
 <hr>
 
