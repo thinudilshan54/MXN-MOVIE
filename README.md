@@ -68,74 +68,19 @@ l
 
 ## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/VajiraTech/VAJIRA_MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+<a href="https://github.com/MXN-MOVIE/MXN-MOVIE/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
 ## 🎀 STEP 02 -  Get Session
 
-<a href="https://stuck-godiva-vajiratech2003-a4248d0c.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://mxn-movie-5c7e2064249b.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 `Not come session id use a vpn and try again`
 
 <br>
 <br>
-## 🎀 STEP 03 -  Deployment Methods
-
-<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
-<br>
-
-
-<div align="center">
- 
-  <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## VAJIRA MD DEVELOPER TEAM
-
-| <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/aqi35mmg.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/yn4h3lb.jpg" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://pomf2.lain.la/f/kph4trq.jpg" width=90 height=90></a> | <a href=""><img src="https://pomf2.lain.la/f/cezntw1.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/l66e44rx.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/ahwljn42.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/ud9j45sk.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/qa8i6chz.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/6f9toku3.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/1u5x6v6p.jpg" width=90 height=90></a> |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| **[Vajira T.D.D](https://github.com/VajiraTech)**</br>Founder & Developer</br> | **[Peter T.D.D](https://github.com/VajiraTech)**</br>  CO-Coder</br> | **[Panda T.D.D ](https://github.com/VajiraTech)**</br>Bug Suplier</br> | **[Rasiya999 T.D.D](https://github.com/VajiraTech)**</br>Tool Suplier | **[Theekshana T.D.D](https://github.com/VajiraTech)**</br>Group & Management | **[Rukshan T.D.D](https://github.com/VajiraTech)**</br> Bug Tester | **[Danidu T.D.D](https://github.com/VajiraTech)**</br>Logo Designer | **[Janiya T.D.D](https://github.com/VajiraTech)**</br> Tool Suplier | **[Didula T.D.D](https://github.com/VajiraTech)**</br>Bug Supler | **[Arrow T.D.D](https://github.com/VajiraTech)**</br>Bug Tester | **[Shen T.D.D](https://github.com/VajiraTech)**</br>Movie Controller | **[Ishu T.D.D](https://github.com/VajiraTech)**</br>Voice Helper |
-
 
 
 
